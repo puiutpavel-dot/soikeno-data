@@ -3,9 +3,10 @@
  "last_date": "2026-10-01",
  "count": 86701,
  "missing_in_latest": 0,
- "updated_at": "2026-10-01T14:30:47Z",
+ "updated_at": "2026-10-01T14:36:25Z",
  "sources": [
   "ketquaday",
-  "baomoi"
+  "baomoi",
+  "archive"
  ]
 }
