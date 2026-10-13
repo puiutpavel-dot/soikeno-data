@@ -1,11 +1,12 @@
 {
- "last_id": "#0299181",
+ "last_id": "#0299187",
  "last_date": "2026-10-13",
- "count": 88126,
+ "count": 88132,
  "missing_in_latest": 0,
- "updated_at": "2026-10-13T14:07:57Z",
+ "updated_at": "2026-10-13T19:58:05Z",
  "sources": [
   "ketquaday",
-  "baomoi"
+  "baomoi",
+  "archive"
  ]
 }
