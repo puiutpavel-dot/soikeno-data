@@ -1,9 +1,9 @@
 {
- "last_id": "#0304584",
+ "last_id": "#0304585",
  "last_date": "2026-11-28",
- "count": 93528,
+ "count": 93529,
  "missing_in_latest": 1,
- "updated_at": "2026-11-28T04:37:16Z",
+ "updated_at": "2026-11-28T04:47:55Z",
  "sources": [
   "ketquaday",
   "ketquaday-backfill"
